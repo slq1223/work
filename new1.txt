@@ -1,1 +1,2 @@
 git is a version controll
+git is a free sofrware
