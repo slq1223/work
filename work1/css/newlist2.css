@@ -1,0 +1,6 @@
+.center-cen{width: 700px;height: 1090px;margin-top: 22px;}
+.center-cen ul{margin: 0;padding: 0;margin-left: 32px;}
+.center-cen ul li{list-style: square;line-height: 28px;}
+.center-cen ul li a{color: #383838;font-size: 12px;font-family: "宋体";font-weight: normal;}
+.center-cen ul li a:link{text-decoration: none;}
+.center-cen ul li span{color: #909090;}

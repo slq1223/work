@@ -1,0 +1,40 @@
+.center-left3{width: 700px;height: 1259px;display: inline-block;
+    position: absolute;margin-top: 22px;position: absolute;font-size: 28px;font-family: "黑体";}
+.center-list3{width: 100%;height: 1398px;background: url(../img/images/beij_03.jpg) left top repeat-x;}
+.center-list3 .center-content3{width: 971px;height: 1398px;margin: 0 auto;position: relative;}
+.center-left3 p{margin-left: 67px;}
+.center-left3 .time{color: #8e8e8e;font-size: 12px;font-family: "宋体";margin-left: 160px;}
+#on{border-bottom:1px dashed #b0b0b0;padding-bottom:15px;width: 700px;list-style: none;}
+.linapic{width: 517px;height: 456px;margin:8px auto;margin-bottom: 38px;cursor: pointer;}
+.introduce{width: 630px;margin-bottom: 21px; height: 300px;position: relative;
+font-size: 14px;font-family: "宋体";color: #383838;line-height: 28px;}
+.center-left3 .fanma{float: right;margin: 0;font-size: 12px;font-family: "宋体";margin-right: 100px;margin-bottom: 18px;}
+.fanma .shang{margin-right: 7px; border: #d4d7d0 solid 1px;background-color: #f6f6f8;padding: 4px 7px 5px 4px;}
+.fanma .xia{margin-left: 7px;  border: #a9afa3 solid 1px;background-color: #f3f1f2;padding: 4px 7px 5px 4px;}
+.fanma .shang a{color: #b0b0b0;}
+.fanma .xia a{color: #413d32;}
+.fanma a:link{text-decoration: none;}
+#on1{border-bottom: 1px dashed #b0b0b0;
+    padding-bottom: 40px;
+    width: 700px;
+    list-style: none;}
+.center-left3 .read{margin: 0;padding: 0;margin-top: 17px;  color: #fa6135;font-size: 14px;font-family: "宋体";font-weight: bold;}
+.gaokao{font-size: 14px;font-weight: normal;font-family: "宋体";color: #363636;}
+.gaokao li{list-style: square;line-height: 28px;}
+.gaokao li span{margin-left: 10px;color: #acacac;}
+.gaokao a{color: #363636;}
+.gaokao a:link{text-decoration: none;}
+.feel{width: 600px;height: 120px;margin-top: 32px;font-size: 12px;font-family: "宋体";font-weight: normal;}
+.feel .wai{height: 52px;width: 10px;border: #dadada solid 1px;}
+.feel .nei1{width: 10px;height: 4px;margin-top: 48px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel .nei2{width: 10px;height: 41px;margin-top:11px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel .nei3{width: 10px;height: 5px;margin-top: 47px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel .nei4{width: 10px;height: 4px;margin-top: 48px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel .nei5{width: 10px;height: 6px;margin-top: 46px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel .nei6{width: 10px;height: 4px;margin-top: 48px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel .nei7{width: 10px;height: 3px;margin-top: 49px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel .nei8{width: 10px;height: 6px;margin-top: 46px; background: url(../img/icon/images/feel_03.jpg) left bottom repeat-y;}
+.feel p{margin: 0;padding: 0;}
+.feel .tupian{margin-top: 8px;cursor: pointer;}
+.feel ul{margin: 0;padding: 0;padding-left: -51px;width: 600px;height: 120px;}
+.feel li{float: left;margin-left:51px ;}

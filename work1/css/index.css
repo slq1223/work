@@ -1,0 +1,12 @@
+.news{width: 700px;height: 97px;border-bottom: #d8d8d7 dashed 1px;}
+.news-left{width: 82px;
+    height: 62px;
+    margin-top: 17px;
+    margin-left: 3px;   
+    float: left;}
+.news-left img{width: 78px;height: 58px;padding: 1px;border:#d8d8d7 solid 1px;}
+.xiangqing{float:left;width: 575px;height: 61px;margin-left: 15px;margin-top: 20px;}
+.xiangqing .span1{font-size: 14px;font-family: "宋体";color: #413d32;line-height: 28px;}
+.xiangqing .span2{font-size: 12px;color: #848484;}
+.xiangqing i{float: right;color: #848484;font-style: normal;font-size: 12px;line-height: 28px;}
+.xuxian{width: 700px;height: 1px;border-bottom:#848484 dashed 1px ;margin-top: 97px;}
