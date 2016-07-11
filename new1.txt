@@ -7,5 +7,9 @@ git is five
 Ã÷Ìì
 ilove you
 change change
+<<<<<<< HEAD
 2016
+=======
+2016.7.11
+>>>>>>> feature1
 
